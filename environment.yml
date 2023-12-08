@@ -1,0 +1,17 @@
+name: ai4beg
+channels:  
+ - defaults
+dependencies:  
+- python=3.12.0
+- openai  
+- python-dotenv 
+- jupyterlab
+- ipywidgets
+- matplotlib
+- numpy
+- pandas
+- tqdm
+- openai
+- tiktoken
+
+
